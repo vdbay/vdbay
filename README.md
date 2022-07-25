@@ -5,6 +5,12 @@
 <br>
 
 # 🔥 Skills 🔥
+### 🔹Mobile:ㅤㅤㅤㅤㅤㅤㅤ
+
+<p style="padding:10px;">
+    <a href="https://flutter.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"/> </a>
+</p>
+
 
 ### 🔹Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
 
